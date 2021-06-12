@@ -1,0 +1,14 @@
+com/apfr/BuildConfig.java
+ com.apfr.BuildConfig
+com/apfr/MainApplication.java
+ com.apfr.MainApplication
+ com.apfr.MainApplication$1
+com/apfr/ReactNativeFlipper.java
+ com.apfr.ReactNativeFlipper
+ com.apfr.ReactNativeFlipper$1
+ com.apfr.ReactNativeFlipper$2
+ com.apfr.ReactNativeFlipper$2$1
+com/apfr/MainActivity.java
+ com.apfr.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

@@ -1,0 +1,6 @@
+module Pods_APFR_APFRTests {
+  umbrella header "Pods-APFR-APFRTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
